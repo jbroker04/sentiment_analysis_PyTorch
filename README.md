@@ -30,5 +30,5 @@ The project uses a transformer-based architecture for sentiment analysis. The mo
 This model received an impressive accuracy of 98% on the test set using the Adamax optimizer and Cross-Entropy loss function.
 
 **Contributions**
--------------------
+-----------------
 Contributions to this repository are welcome! Please submit a pull request if you have suggestions, bug fixes, or new features.
